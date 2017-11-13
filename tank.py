@@ -25,8 +25,7 @@ class Tank:
         self.name=name
 
     def test(self,args):
-        print("hiHiHIHII tank test ")
-        return "hello SB",None
+        return "hello ",None
   
     def setup(self,args):
         try:
